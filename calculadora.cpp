@@ -1,5 +1,5 @@
 // Programa que solicite dos numeros y un signo de operacion
-// +, - y *; y muestre eo res7otadp del a operacion de la forma:
+// +, - y *; y muestre el resultado de la operacion de la forma:
 // 5 - 2 = 3
 #include <iostream>
 
