@@ -12,7 +12,7 @@ int num1;
 int num2;
 char signo;
 
-cout << "Ingresa dps numeros enteros: ";
+cout << "Ingresa dos numeros enteros: ";
 cin >> num1 >> num2;
 cout << "Ingresa un signo de operación + ó - ó *: ";
 cin >> signo;
